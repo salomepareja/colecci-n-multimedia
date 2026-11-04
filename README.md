@@ -28,3 +28,11 @@ Java 21, Vaadin, Spring Boot y Maven. Los datos se guardan en archivos de texto,
 3. Abrir <http://localhost:8080> en el navegador.
 
 La primera vez se crea la carpeta `datos/` con información de ejemplo.
+
+
+
+11/4/2026
+- Hice el formulario para agregar y modificar elementos, con validaciones: los campos obligatorios, el año entre 1850 y el año siguiente, y que no se repita un elemento con el mismo título, tipo y creador.
+- Hice un componente propio de calificación con 5 estrellas (`Icon`). Se usa en el formulario y en la tabla, donde al tocar una estrella la calificación se guarda al instante.
+- Agregué los botones de modificar y eliminar en la tabla. Eliminar pide confirmación, y un elemento que está prestado no se puede eliminar.
+- Hice la vista de préstamos: se registra a quién se le presta un elemento y en qué fecha, y se registra su devolución. Un elemento ya prestado no se puede volver a prestar, y el historial se puede filtrar por estado.
