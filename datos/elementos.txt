@@ -2,7 +2,7 @@
 2|El Padrino|Película|Drama|1972|Francis Ford Coppola|5
 3|Amélie|Película|Comedia|2001|Jean-Pierre Jeunet|4
 4|Coco|Película|Animación|2017|Lee Unkrich|4
-5|Breaking Bad|Serie|Drama|2008|Vince Gilligan|5
+5|Breaking Bad|Serie|Drama|2008|Vince Gilligan|4
 6|Stranger Things|Serie|Ciencia ficción|2016|Hermanos Duffer|4
 7|The Office|Serie|Comedia|2005|Greg Daniels|3
 8|Dark|Serie|Ciencia ficción|2017|Baran bo Odar|5

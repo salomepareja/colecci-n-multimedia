@@ -1,3 +1,4 @@
+import '@vaadin/custom-field/src/vaadin-custom-field.js';
 import '@vaadin/vertical-layout/src/vaadin-vertical-layout.js';
 import '@vaadin/app-layout/src/vaadin-app-layout.js';
 import '@vaadin/field-highlighter/src/vaadin-field-highlighter.js';
@@ -26,7 +27,6 @@ import '@vaadin/context-menu/src/vaadin-context-menu.js';
 import '@vaadin/tooltip/src/vaadin-tooltip.js';
 import 'Frontend/generated/jar-resources/vaadin-context-menu/contextMenuConnector.ts';
 import 'Frontend/generated/jar-resources/vaadin-context-menu/contextMenuTargetConnector.ts';
-import '@vaadin/custom-field/src/vaadin-custom-field.js';
 import '@vaadin/date-picker/src/vaadin-date-picker.js';
 import 'Frontend/generated/jar-resources/vaadin-date-picker/datepickerConnector.ts';
 import '@vaadin/date-time-picker/src/vaadin-date-time-picker.js';
