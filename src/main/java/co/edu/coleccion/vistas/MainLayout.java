@@ -24,6 +24,8 @@ public class MainLayout extends AppLayout {
         menu.addItem(new SideNavItem("Colección", ColeccionView.class, VaadinIcon.FOLDER.create()));
         menu.addItem(new SideNavItem("Nuevo elemento", "elemento", VaadinIcon.PLUS.create()));
         menu.addItem(new SideNavItem("Préstamos", PrestamosView.class, VaadinIcon.EXCHANGE.create()));
+        menu.addItem(new SideNavItem("Listas", ListasView.class, VaadinIcon.LIST.create()));
+        menu.addItem(new SideNavItem("Fichas", FichasView.class, VaadinIcon.BOOK.create()));
 
         addToDrawer(new Scroller(menu));
         addToNavbar(botonMenu, titulo);
