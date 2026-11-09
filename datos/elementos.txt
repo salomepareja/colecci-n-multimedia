@@ -6,7 +6,7 @@
 6|Stranger Things|Serie|Ciencia ficción|2016|Hermanos Duffer|4
 7|The Office|Serie|Comedia|2005|Greg Daniels|3
 8|Dark|Serie|Ciencia ficción|2017|Baran bo Odar|5
-9|Abbey Road|Música|Rock|1969|The Beatles|5
+9|Abbey Road|Música|Rock|1969|The Beatles|3
 10|Thriller|Música|Pop|1982|Michael Jackson|4
 11|Kind of Blue|Música|Jazz|1959|Miles Davis|5
 12|Pies descalzos|Música|Pop|1995|Shakira|0

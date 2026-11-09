@@ -36,3 +36,7 @@ La primera vez se crea la carpeta `datos/` con información de ejemplo.
 - Hice un componente propio de calificación con 5 estrellas (`Icon`). Se usa en el formulario y en la tabla, donde al tocar una estrella la calificación se guarda al instante.
 - Agregué los botones de modificar y eliminar en la tabla. Eliminar pide confirmación, y un elemento que está prestado no se puede eliminar.
 - Hice la vista de préstamos: se registra a quién se le presta un elemento y en qué fecha, y se registra su devolución. Un elemento ya prestado no se puede volver a prestar, y el historial se puede filtrar por estado.
+
+11/9/2026
+- Hice las listas personalizadas, donde se agregan varios elementos de una sola vez con un `MultiSelectComboBox`. Se pueden crear, modificar y eliminar.
+- Hice las fichas desplegables con el componente `Details`: cada elemento muestra todos sus datos, su estado de préstamo, su historial y las listas donde aparece.
